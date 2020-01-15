@@ -1,0 +1,24 @@
+1:: Qual dos módulos abaixo é referente sua dúvida: 1- Carregamento 2- Contagem 
+11:: Sua dúvida no carregamento é referente a: 1- Subida de DT no WMS - 2- Liberação de DT pelo Conferente 
+111:: A DT foi integrada para o WMS ? 1- Não 2- Sim 
+1111:: Caso a integração automática de DT não tenha sido efetuada, é necessário realizar a transação ZM_0011 no SAP conforme a imagem a seguir 
+11111:: A orientação resolveu o problema ? 1- Sim 2- Não 
+1.1.1.1.1.1:: Ótimo, caso precise de mais alguma ajuda, pode voltar ao menu inicial: 1- Voltar ao Menu 
+1.1.1.1.1.2:: Sendo assim, solicitamos que abra um chamado com o Suporte para uma análise mais aprofundada, para outras dúvidas, favor voltar ao menu inicial: 1- Voltar ao Menu 
+
+1 - Qual dos módulos abaixo é referente sua dúvida: 1- Carregamento 2- Contagem
+1.1- Sua dúvida no carregamento é referente a: 1- Subida de DT no WMS - 2- Liberação de DT pelo Conferente
+1.1.2 - Para liberar uma DT, é necessário o conferente acessar o aplicativo LIBERAÇÃO DE DOCUMENTOS, selecionar o campo DT, escolher o Box de destino e selecionar os endereços onde se encontram os produtos necessários para o carregamento do caminhão, é possível determinar um operador de empilhadeira específico para realizar a tarefa (deixe em branco para que qualquer um possa realizar o carregamento), ao fim clique no botão verde para liberar o documento
+1.1.2.1 - A orientação resolveu o problema ? 1- Sim 2- Não
+1.1.2.1 - Ótimo, caso precise de mais alguma ajuda, pode voltar ao menu inicial: 1- Voltar ao Menu
+1.1.2.2 - Sendo assim, solicitamos que abra um chamado com o Suporte para uma análise mais aprofundada, para outras dúvidas, favor voltar ao menu inicial: 1- Voltar ao Menu
+
+1.2 - Sua dúvida é referente a: 1- Como realizar a contagem no WMS ? 2- Como atualizar a rota de contagem ?
+1.2.1 - Para realizar a contagem no WMS é necessário: Entrar no App de contagem, informar a Rota a ser contada, informar o endereço que está sendo contado, informar o SKU e informar a quantidade
+1.2.1.1 - A orientação resolveu o problema ? 1- Sim 2- Não
+1.2.1.1.1 - Ótimo, caso precise de mais alguma ajuda, pode voltar ao menu inicial: 1- Voltar ao Menu
+1.2.1.1.2 - Sendo assim, solicitamos que abra um chamado com o Suporte para uma análise mais aprofundada, para outras dúvidas, favor voltar ao menu inicial: 1- Voltar ao Menu
+1.2.2 - Para atualizar a rota de contagem, é necessario atualizar no painel WMS no menu Contagem
+1.2.2.1 - A orientação resolveu o problema ? 1- Sim 2- Não
+1.2.2.1.1 - Ótimo, caso precise de mais alguma ajuda, pode voltar ao menu inicial: 1- Voltar ao Menu
+1.2.2.1.2 - Sendo assim, solicitamos que abra um chamado com o Suporte para uma análise mais aprofundada, para outras dúvidas, favor voltar ao menu inicial: 1- Voltar ao Menu

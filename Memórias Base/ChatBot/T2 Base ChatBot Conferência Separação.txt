@@ -1,0 +1,30 @@
+0:: Sua dúvida é sobre WMS T1 (Fábrica) ou T2 (CDD): 1- T1 2- T2
+
+02:: Qual dos módulos abaixo é referente sua dúvida? 10- Conferência Separação | Voltar 0- Voltar ao Menu Inicial
+
+0210:: Sua dúvida sobre o aplicativo de Conferência Separação é referente a: 1- Instalação do aplicativo 2- Operação 3- Lançar Inversão 4- Item não esperado 5- Itens Marcados | Voltar 0- Voltar ao Menu Inicial
+
+02101:: O aplicativo de Conferência Separação é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS. Geralmente o aplicativo de Conferência Separação está disponível para os perfis: Geral, GRO (supervisores e administradores) e Conferente. Caso nenhum destes perfis disponibilizem o aplicativo de Conferência Separação, entre em contato com o suporte, abrindo um chamado.
+021011:: A orientação resolveu o problema ? 1- Sim 2- Não
+0210111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0210112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+02102:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Conferência Separação e clique sobre ele. Abrirá uma tela com tarefas individuais, com a placa do veículo, o número do mapa, o endereço de localização, o número do palete e o nome do ajudante que finalizou o palete. Clique sobre a tarefa desejada e o aplicativo abrirá uma nova tela com a placa do veículo, o número do mapa, o endereço de localização, o número do palete, o nome do ajudante que finalizou o palete, os itens e as quantidades que devem conter o palete, o botão “X” de cor vermelha para desassociar a tarefa, o botão “!” de cor roxa para informar itens não previstos e o botão “V” de cor verde para confirmar a conclusão da tarefa. Pode-se sinalizar uma inversão clicando sobre o produto e clicando no botão “Vai e Volta” de cor azul, também é possível informar a sobra e a falta de itens, clicando nos botões “+” ou “-“. Para confirmar a conferência de cada item, clique na caixa de seleção que acompanha cada item, ficando com a caixa marcada por um “V” de cor verde, após conferir todos os itens, clique no botão “V” de cor verde para confirmar a conferência do palete, o aplicativo mostrará uma mensagem de conclusão da tarefa e voltará à tela da lista de tarefas do aplicativo.
+021021:: A orientação resolveu o problema ? 1- Sim 2- Não
+0210211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0210212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02103:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Conferência Separação e clique sobre ele. Abrirá uma tela com tarefas individuais, com a placa do veículo, o número do mapa, o endereço de localização, o número do palete e o nome do ajudante que finalizou o palete. Clique sobre a tarefa desejada, para sinalizar uma inversão, clique sobre o produto e clique no botão “Vai e Volta” de cor azul, na tela seguinte informe por qual item foi invertido o original, clique no botão “Seta para a esquerda” de cor azul para voltar à tela anterior ou clique no botão “V” de cor verde para confirmar o lançamento. Também é possível informar a sobra e a falta de itens, clicando nos botões “+” ou “-“ do item selecionado. Para confirmar a conferência de cada item, clique na caixa de seleção que acompanha cada item, ficando com a caixa marcada por um “V” de cor verde, após conferir todos os itens, clique no botão “V” de cor verde para confirmar a conferência do palete, o aplicativo mostrará uma mensagem de conclusão da tarefa e voltará à tela da lista de tarefas do aplicativo.
+021031:: A orientação resolveu o problema ? 1- Sim 2- Não
+0210311$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0210312$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02104:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Conferência Separação e clique sobre ele. Abrirá uma tela com tarefas individuais, com a placa do veículo, o número do mapa, o endereço de localização, o número do palete e o nome do ajudante que finalizou o palete. Clique sobre a tarefa desejada, para sinalizar um item não esperado, clique no botão de “!” de cor roxa, na tela seguinte informe por qual é o item não esperado, clique no botão “Seta para a esquerda” de cor azul para voltar à tela anterior ou clique no botão “V” de cor verde para confirmar o lançamento, após conferir todos os itens, clique no botão “V” de cor verde para confirmar a conferência do palete, o aplicativo mostrará uma mensagem de conclusão da tarefa e voltará à tela da lista de tarefas do aplicativo.
+021041:: A orientação resolveu o problema ? 1- Sim 2- Não
+0210411$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0210412$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02105:: Caso sua unidade possua o módulo de separação por peso ou RTLS habilitados, uma nova funcionalidade disponível no aplicativo de Conferência Separação, marca automaticamente na lista de itens da conferência da separação os itens que tiveram status “OK” na separação por peso e no RTLS. Caso sua unidade não possua o módulo de separação por peso ou RTLS ativos e está aparecendo itens marcados como conferidos, entre em contato com o suporte, abrindo um chamado.
+021051:: A orientação resolveu o problema ? 1- Sim 2- Não
+0210511$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0210512$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.

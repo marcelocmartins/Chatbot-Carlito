@@ -1,0 +1,124 @@
+0:: Sua dúvida é sobre WMS T1 (Fábrica) ou T2 (CDD): 1- T1 2- T2
+
+02:: Qual dos módulos abaixo é referente sua dúvida? 1- Instalação do WMS 2- Ajuste Físico 3- Armazenagem 4- Blitz de Carregamento | Voltar 0- Voltar ao Menu Inicial
+
+021:: Sua dúvida sobre a instalação do WMS é referente a: 1- Instalação do aplicativo 2- Configuração do WMS 3- Acessar o WMS | Voltar 0- Voltar ao Menu Inicial
+
+0211:: Para instalar o aplicativo do WMS, pelo próprio aparelho, após conectá-lo à internet, abrir o navegador web (Chrome ou equivalente) e digitar o seguinte endereço (URL), conforme a rede utilizada. Caso esteja usando a rede Ambev (ABI-AM, INTERMEC, ABI-WIFI), usar o link: http://172.19.134.147:8003/launcher/launcher-local_standard_release-0.6.034.apk. Caso esteja usando a rede externa (3-4G, redes terceiras), usar o link: http://54.94.140.5:8003/launcher/launcher-local_standard_release-0.6.034.apk. Após realizar o download do arquivo, abra o gerenciador de arquivos do aparelho, procure na pasta de downloads o arquivo e clique em cima do arquivo “launcher-local_standard_release-x.x.xxx.apk. Abrirá uma janela solicitando permissão para instalação do aplicativo, leia a mensagem e clique em “Instalar”. Aguarde alguns instantes a instalação e em seguida clique em “Abrir”. Caso a janela seja fechada, procure o aplicativo instalado na tela inicial do aparelho ou nos aplicativos instalados.
+02111:: A orientação resolveu o problema ? 1- Sim 2- Não
+021111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+021112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0212:: Para configurar o aplicativo do WMS após a instalação, após conectar o aparelho à internet, abra o aplicativo “Launcher” disponível na tela inicial do aparelho ou nos aplicativos instalados. Ao abrir a tela inicial do aplicativo, clique em “Configurações”. Na janela que abrirá, digite o endereço (URL) no campo “Servidor”, conforme a rede utilizada. Caso esteja usando a rede Ambev (ABI-AM, INTERMEC, ABI-WIFI), selecione o botão em “HTTP” e use o link do servidor: para GEO Sul: wmst2sul.la.interbrew.net, para GEO SP: wmst2sp.la.interbrew.net, para GEO MGNENO: wmst2.mgneno.la.interbrew.net, para GEO PILOTO: wmst2piloto.la.interbrew.net. Caso esteja usando a rede externa (3-4G, redes terceiras), selecione o botão em “HTTPS” e use o link do servidor: para GEO Sul: wmst2sul.ambev.com.br, para GEO SP: wmst2sp.ambev.com.br, para GEO MGNENO: wmst2.mgneno.ambev.com.br, para GEO PILOTO: wmst2piloto.ambev.com.br. Após efetuar a configuração, clique em “Salvar alterações”.
+02121:: A orientação resolveu o problema ? 1- Sim 2- Não
+021211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+021212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0213:: Para acessar o sistema WMS, após conectar o aparelho à internet, abra o aplicativo “Launcher” disponível na tela inicial do aparelho ou nos aplicativos instalados. Ao abrir a tela inicial do aplicativo, informe os dados nos respectivos campos: usuário, senha e equipamento. Ao preencher os campos, clique em “Entrar”.
+02131:: A orientação resolveu o problema ? 1- Sim 2- Não
+021311$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+021312$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+02132:: Acessei o aplicativo WMS com meu usuário, senha e equipamento, mas ele abriu uma tela diferente? 1- Sim 2- Não | Voltar 0- Voltar ao Menu Inicial
+
+021321:: Ao acessar o aplicativo com seu usuário, senha e equipamento, caso haja alguma atualização dos aplicativos, o Launcher efetuará o download automaticamente das novas versões de aplicativos disponíveis e em seguida solicitará a desinstalação dos aplicativos antigos e a instalação dos novos, conforme mensagens que serão apresentadas em cada tela. Leia atentamente as mensagens e proceda conforme necessário.
+0213211:: A orientação resolveu o problema ? 1- Sim 2- Não
+02132111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+02132112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+021322$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+022:: Sua dúvida sobre o aplicativo de Ajuste Físico é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+0221:: O aplicativo de Ajuste Físico é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS, porém, o Ajuste Físico foi substituído pelo aplicativo de Contagem nas unidades que possuem o módulo de Ressuprimento Inteligente ativo. Caso sua unidade não possua o módulo de Ressuprimento Inteligente ativo, geralmente o aplicativo de Ajuste Físico está disponível para os perfis: Geral, GRO (supervisores e administradores) e Conferente. Caso nenhum destes perfis disponibilizem o aplicativo de Ajuste Físico, entre em contato com o suporte, abrindo um chamado.
+02211:: A orientação resolveu o problema ? 1- Sim 2- Não
+022111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+022112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0222:: Sua dúvida sobre o aplicativo de Ajuste Físico é referente a: 1- Adicionar saldo 2- Limpar saldo | Voltar 0- Voltar ao Menu Inicial
+
+02221:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Ajuste Físico e clique sobre ele. Abrirá uma tela solicitando o endereço que deseja fazer o ajuste de saldo, após digitar o endereço, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para sair do aplicativo. Caso confirme, a próxima tela solicitará o código do item que deseja adicionar saldo no respectivo endereço, após digitar o código do item, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para voltar à tela anterior. Caso confirme, a próxima tela solicitará a quantidade do respectivo item e escolha a unidade de medida (PL – Palete, CX – Caixa, LST – Lastro, UN – Unidade) referente à quantidade de itens, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para voltar à tela anterior. Caso confirme, a próxima tela solicitará a data de validade o item, selecione a respectiva data no calendário e clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para voltar à tela anterior.
+022211:: A orientação resolveu o problema ? 1- Sim 2- Não
+0222111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0222112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02222:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Ajuste Físico e clique sobre ele. Abrirá uma tela solicitando o endereço que deseja fazer o ajuste de saldo, após digitar o endereço, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para sair do aplicativo. Caso confirme, na próxima tela clique no botão “Lixeira” de cor cinza para esvaziar o endereço ou no botão “X” de cor vermelha para voltar à tela anterior. Caso escolha esvaziar o endereço, clique no botão “Lixeira”, em seguida o aplicativo solicitará a confirmação da operação (Ao fazer esta operação, deve-se liberar o endereço no painel WMS, no menu Configurações > Endereços).
+022221:: A orientação resolveu o problema ? 1- Sim 2- Não
+0222211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0222212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+023:: Sua dúvida sobre o aplicativo de Armazenagem é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+0231:: O aplicativo de Armazenagem é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS, porém, a Armazenagem foi substituída pelo aplicativo de Task Interleaving nas unidades que possuem o módulo de Task Interleaving. Caso sua unidade não possua o módulo de Task Interleaving ativo, geralmente o aplicativo de Armazenagem está disponível para os perfis: Geral, GRO (supervisores e administradores) e Operador de Empilhadeira. Caso nenhum destes perfis disponibilizem o aplicativo de Armazenagem, entre em contato com o suporte, abrindo um chamado.
+02311:: A orientação resolveu o problema ? 1- Sim 2- Não
+023111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+023112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0232:: Sua dúvida sobre o aplicativo de Armazenagem é referente a: 1- Operação 2- Desassociar tarefa 3- Endereço cheio 4- Bloquear endereço | Voltar 0- Voltar ao Menu Inicial
+
+02321:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Armazenagem e clique sobre ele. Abrirá uma tela com tarefas individuais, com o número do mapa e a posição da TP onde o sem encontra o palete. Clique sobre a tarefa desejada e o aplicativo abrirá uma nova tela com a instrução de localização do palete, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Caso confirme, na próxima tela haverá a informação do palete, caso seja este o palete correto, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Caso confirme, na próxima tela haverá a informação do endereço de destino do palete escolhido, clique no botão “V” de cor verde para confirmar, no botão “Pirâmide” de cor roxa para informar que o endereço está cheio ou no botão “Pare” de cor vermelha para bloquear o endereço (sinal de segurança). Caso confirme, na próxima tela haverá a informação da execução da tarefa.
+023211:: A orientação resolveu o problema ? 1- Sim 2- Não
+0232111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0232112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02322:: Para desassociar uma tarefa, clique no botão “X” de cor vermelha. Na tela seguinte confirme a desassociação da tarefa e informe o motivo conforme disponibilidade na lista. Feito isto o sistema retorna à tela inicial do aplicativo o qual estava executando.
+023221:: A orientação resolveu o problema ? 1- Sim 2- Não
+0232211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0232212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02323:: Caso o aplicativo indique a armazenagem em um endereço que se encontra cheio, para informar que um endereço está cheio, clique no botão “Pirâmide” de cor roxa e na tela seguinte confirme que o endereço está cheio, após confirmar, o aplicativo irá buscar outro endereço disponível para a armazenagem.
+023231:: A orientação resolveu o problema ? 1- Sim 2- Não
+0232311$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0232312$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02324:: Caso o aplicativo indique a armazenagem em um endereço que se encontra bloqueado, para informar que um endereço está bloqueado, clique no botão “Pare” de cor vermelha e na tela seguinte confirme o bloqueio do endereço, após confirmar, o aplicativo irá buscar outro endereço disponível para a armazenagem.
+023241:: A orientação resolveu o problema ? 1- Sim 2- Não
+0232411$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0232412$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+024:: Sua dúvida sobre o aplicativo de Blitz de Carregamento é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+0241:: O aplicativo de Blitz de Carregamento é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS, geralmente os perfis com acesso são: Geral, GRO (supervisores e administradores) e Conferente. Caso nenhum destes perfis disponibilizem o aplicativo de Ajuste Físico, entre em contato com o suporte, abrindo um chamado.
+02411:: A orientação resolveu o problema ? 1- Sim 2- Não
+024111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+024112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0242:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Blitz de Carregamento e clique sobre ele. Abrirá uma tela com tarefas individuais, com a placa do veículo, o número do mapa e a localização do veículo. Clique sobre a tarefa desejada e o aplicativo abrirá uma nova tela com a informação da placa do veículo, número do mapa, a imagem do veículo e os botões de operação. Para iniciar a conferência, selecione uma baia do veículo clicando sobre ela, em seguida, abrirá uma tela com uma listagem de itens, os quais devem ser adicionadas a quantidades (conforme a unidade de medida) somente dos itens coerentes com o palete da baia, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para sair da tela. Caso confirme, o aplicativo voltará na tela anterior dos itens, após adicionar o saldo de todos os itens, clique no botão “V” de cor verde para confirmar, no botão “+” de cor azul para adicionar algum produto não listado ou no botão “X” de cor vermelha para sair da baia do veículo, retornando à tela inicial. Caso confirme, a próxima tela volta ao início, mostrando que a baia conferida estará na cor verde, execute o mesmo processo para as demais baias. Após todas as baias estiverem conferidas (verdes), clique no botão “V” de cor verde para confirmar, no botão “A” de cor azul para mudar para o lado do ajudante e no botão “M” de cor azul para mudar para o lado do motorista, clique no botão “Palete” de cor cinza para informar a quantidade de paletes e chapatex ou no botão “Lacre” de cor amarela para informar os lacres e os números do mesmo. Na tela principal, caso confirme a execução de todas as atividades, na próxima tela haverá a informação da execução da tarefa ou de divergências nas quantidades informadas, onde pode-se aferir novamente o veículo ou prosseguir com o processo. Caso prossiga, a próxima tela irá informar quais itens sobraram (que devem ser retirados do veículo) ou faltaram (que devem ser repostos no veículo).
+02421:: A orientação resolveu o problema ? 1- Sim 2- Não
+024211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+024212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+025:: Sua dúvida sobre o aplicativo de Blitz de Refugo é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+0251:: O aplicativo de Blitz de Refugo é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS, geralmente os perfis com acesso são: Geral, GRO (supervisores e administradores), Conferente e Ajudante. Caso nenhum destes perfis disponibilizem o aplicativo de Ajuste Físico, entre em contato com o suporte, abrindo um chamado.
+02511:: A orientação resolveu o problema ? 1- Sim 2- Não
+025111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+025112$$:: SDesculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787
+
+0252:: Sua dúvida é sobre o aplicativo do: 1- Ajudante 2- Conferente | Voltar 0- Voltar ao Menu Inicial
+
+02521:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Blitz de Refugo e clique sobre ele. Abrirá uma tela com tarefas individuais, com o número do mapa. Clique sobre a tarefa desejada e o aplicativo abrirá uma nova tela com o número do mapa e o ativo de giro, conforme conferido no Retorno de Rota e a lista de possíveis causas de refugo. Para iniciar, adicione em cada tipo de refugo as quantidades aferidas, utilizando o botão de “+” para adicionar e o botão de “-“ para reduzir a quantidade, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Caso confirme, o aplicativo solicitará a confirmação e voltará na tela anterior das tarefas de refugo.
+025211:: A orientação resolveu o problema ? 1- Sim 2- Não
+0252111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0252112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02522:: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

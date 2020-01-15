@@ -1,0 +1,22 @@
+0:: Sua dúvida é sobre WMS T1 (Fábrica) ou T2 (CDD): 1- T1 2- T2
+
+02:: Qual dos módulos abaixo é referente sua dúvida? 1- Instalação do WMS 2- Ajuste Físico 3- Armazenagem 4- Blitz de Carregamento | Voltar 0- Voltar ao Menu Inicial
+
+022:: Sua dúvida sobre o aplicativo de Ajuste Físico é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+0221:: O aplicativo de Ajuste Físico é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS, porém, o Ajuste Físico foi substituído pelo aplicativo de Contagem nas unidades que possuem o módulo de Ressuprimento Inteligente ativo. Caso sua unidade não possua o módulo de Ressuprimento Inteligente ativo, geralmente o aplicativo de Ajuste Físico está disponível para os perfis: Geral, GRO (supervisores e administradores) e Conferente. Caso nenhum destes perfis disponibilizem o aplicativo de Ajuste Físico, entre em contato com o suporte, abrindo um chamado.
+02211:: A orientação resolveu o problema ? 1- Sim 2- Não
+022111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+022112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0222:: Sua dúvida sobre o aplicativo de Ajuste Físico é referente a: 1- Adicionar saldo 2- Limpar saldo | Voltar 0- Voltar ao Menu Inicial
+
+02221:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Ajuste Físico e clique sobre ele. Abrirá uma tela solicitando o endereço que deseja fazer o ajuste de saldo, após digitar o endereço, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para sair do aplicativo. Caso confirme, a próxima tela solicitará o código do item que deseja adicionar saldo no respectivo endereço, após digitar o código do item, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para voltar à tela anterior. Caso confirme, a próxima tela solicitará a quantidade do respectivo item e escolha a unidade de medida (PL – Palete, CX – Caixa, LST – Lastro, UN – Unidade) referente à quantidade de itens, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para voltar à tela anterior. Caso confirme, a próxima tela solicitará a data de validade o item, selecione a respectiva data no calendário e clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para voltar à tela anterior.
+022211:: A orientação resolveu o problema ? 1- Sim 2- Não
+0222111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0222112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02222:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Ajuste Físico e clique sobre ele. Abrirá uma tela solicitando o endereço que deseja fazer o ajuste de saldo, após digitar o endereço, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para sair do aplicativo. Caso confirme, na próxima tela clique no botão “Lixeira” de cor cinza para esvaziar o endereço ou no botão “X” de cor vermelha para voltar à tela anterior. Caso escolha esvaziar o endereço, clique no botão “Lixeira”, em seguida o aplicativo solicitará a confirmação da operação (Ao fazer esta operação, deve-se liberar o endereço no painel WMS, no menu Configurações > Endereços).
+022221:: A orientação resolveu o problema ? 1- Sim 2- Não
+0222211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0222212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.

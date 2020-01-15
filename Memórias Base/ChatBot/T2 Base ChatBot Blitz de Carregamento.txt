@@ -1,0 +1,31 @@
+0:: Sua dúvida é sobre WMS T1 (Fábrica) ou T2 (CDD): 1- T1 2- T2
+
+02:: Qual dos módulos abaixo é referente sua dúvida? 1- Instalação do WMS 2- Ajuste Físico 3- Armazenagem 4- Blitz de Carregamento | Voltar 0- Voltar ao Menu Inicial
+
+024:: Sua dúvida sobre o aplicativo de Blitz de Carregamento é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+0241:: O aplicativo de Blitz de Carregamento é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS, geralmente os perfis com acesso são: Geral, GRO (supervisores e administradores) e Conferente. Caso nenhum destes perfis disponibilizem o aplicativo de Ajuste Físico, entre em contato com o suporte, abrindo um chamado.
+02411:: A orientação resolveu o problema ? 1- Sim 2- Não
+024111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+024112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0242:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Blitz de Carregamento e clique sobre ele. Abrirá uma tela com tarefas individuais, com a placa do veículo, o número do mapa e a localização do veículo. Clique sobre a tarefa desejada e o aplicativo abrirá uma nova tela com a informação da placa do veículo, número do mapa, a imagem do veículo e os botões de operação. Para iniciar a conferência, selecione uma baia do veículo clicando sobre ela, em seguida, abrirá uma tela com uma listagem de itens, os quais devem ser adicionadas a quantidades (conforme a unidade de medida) somente dos itens coerentes com o palete da baia, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para sair da tela. Caso confirme, o aplicativo voltará na tela anterior dos itens, após adicionar o saldo de todos os itens, clique no botão “V” de cor verde para confirmar, no botão “+” de cor azul para adicionar algum produto não listado ou no botão “X” de cor vermelha para sair da baia do veículo, retornando à tela inicial. Caso confirme, a próxima tela volta ao início, mostrando que a baia conferida estará na cor verde, execute o mesmo processo para as demais baias. Após todas as baias estiverem conferidas (verdes), clique no botão “V” de cor verde para confirmar, no botão “A” de cor azul para mudar para o lado do ajudante e no botão “M” de cor azul para mudar para o lado do motorista, clique no botão “Palete” de cor cinza para informar a quantidade de paletes e chapatex ou no botão “Lacre” de cor amarela para informar os lacres e os números do mesmo. Na tela principal, caso confirme a execução de todas as atividades, na próxima tela haverá a informação da execução da tarefa ou de divergências nas quantidades informadas, onde pode-se aferir novamente o veículo ou prosseguir com o processo. Caso prossiga, a próxima tela irá informar quais itens sobraram (que devem ser retirados do veículo) ou faltaram (que devem ser repostos no veículo).
+02421:: A orientação resolveu o problema ? 1- Sim 2- Não
+024211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+024212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+0:: Sua dúvida é sobre WMS T1 (Fábrica) ou T2 (CDD): 1- T1 2- T2
+
+02:: Qual dos módulos abaixo é referente sua dúvida? 12- Fechamento de Carga | Voltar 0- Voltar ao Menu Inicial
+
+0212:: Sua dúvida sobre o aplicativo de Fechamento de Carga é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+02121:: O aplicativo de Fechamento de Carga é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS. Geralmente o aplicativo de Fechamento de Carga está disponível para os perfis: Geral, GRO (supervisores e administradores) e Conferente. Caso nenhum destes perfis disponibilizem o aplicativo de Fechamento de Carga, entre em contato com o suporte, abrindo um chamado.
+021211:: A orientação resolveu o problema ? 1- Sim 2- Não
+0212111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0212112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+02122:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Fechamento de Carga e clique sobre ele. Caso existam tarefas a serem executadas abrirá uma tela com as instruções “Vá para” o endereço “XPTO”, siga a instrução e clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Na tela seguinte, observe que todas as baias são numeradas e ilustradas conforme a posição de carregamento do palete, onde a letra “A” na cabine do veículo significa lado do ajudante e a letra “M” significa lado do motorista, temos o número do palete, a placa do veículo, o botão “V” de cor verde para confirmar, o botão “X” de cor vermelha para desassociar a tarefa, o botão “palete” de cor azul para informar os paletes e chapatex, o botão “lacre” para informar os números dos lacres e o botão “NPAL” de cor laranja para informarmos os itens não paletizados. Para iniciar a conferência, selecione uma baia do veículo clicando sobre ela, em seguida, abrirá uma tela com uma listagem de itens e suas quantidades (conforme a unidade de medida) coerentes com o palete da baia e informe a quantidade de “chapatex”, “PBRI” e “PBRII” utilizando o teclado ou os botões de “+” para adicionar e “-“ para reduzir, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para sair da tela. Caso confirme, a próxima tela volta ao início, mostrando que a baia conferida estará na cor verde, execute o mesmo processo para as demais baias. Após todas as baias estiverem conferidas (verdes), clique no botão “palete” de cor azul e verifique se as quantidades informadas estão corretas, nesta tela é possível alterar as quantidades, o próximo passo é lançar os lacres utilizados no veículo, clique no botão “lacre” de cor laranja, informe o número dos lacres nos campos solicitados e clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para voltar à tela principal. Caso confirme, a tela seguinte apresentará a conclusão da tarefa e o aplicativo automaticamente irá mostra a tarefa seguinte.
+021221:: A orientação resolveu o problema ? 1- Sim 2- Não
+0212211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0212212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+
+
+
+
+
+
+
+
+
+
+
+

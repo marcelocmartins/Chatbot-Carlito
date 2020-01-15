@@ -1,0 +1,1112 @@
+
+
+<!doctype html>
+
+<!-- saved from url=(0014)about:internet -->
+<html lang="pt-br, pt" dir="ltr">
+
+<head>
+<!--<meta http-equiv="X-UA-Compatible" content="IE=8" />-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta http-equiv="Content-Language" content="pt-br, pt" /><meta name="robots" content="index,follow" /><meta name="author" content="Design e Desenvolvimento - HB Saude S/A" /><meta name="copyright" content="HB Saúde S/A" /><meta name="reply-to" content="contato@hbsaude.com.br" /><meta name="distribution" content="global" /><meta name="rating" content="general" /><meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" /><meta name="description" lang="pt-br, pt" content="HB Saúde - Sempre ao seu lado" /><meta name="keywords" lang="pt-br, pt" content="bh, saude, hbsaude" /><meta name="viewport" content="width=device-width,initial-scale=1" /><meta name="URL" content="http://hbsaude.com.br" />
+<!--<link rel="canonical" href="http://hbsaude.com.br" />-->
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" /><title>
+	HB Sa&uacute;de S/A - Sempre ao seu lado
+</title>
+
+<!--[if IE]>
+<script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+	<link rel="icon" href="/site/img/favicon.ico" type="image/x-icon" />
+</head>
+
+<body>
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzODI5OTE3MDMPZBYCZg9kFgICAw9kFgICHA9kFgQCBw8WAh4LXyFJdGVtQ291bnRmZAIJDxYCHgdWaXNpYmxlZ2RkB741bm/4iNI0XS9bE8w7NPuyKWn66LPYUUzc5fFBL5M=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4D84E9BB" />
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAMnIYq5RgyQEv7ct5YKjOoR0y2vzlO0O0bM1Yq0/OsnxLPd9AVqyZEGKpJv6rRM1XNJbyw68pUdhsYMUWs/WOF+wwNVpLpORO0/sfGKBtTVMg==" />
+</div>
+   
+<!--CSS-->
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<!--FIM CSS-->
+
+<!--JQUERY-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js") %>"></script>
+<!--FIM JQUERY-->
+
+<!--LIGHTBOX-->
+<link rel="stylesheet" type="text/css" href="js/lightbox/themes/evolution/jquery.lightbox.css" />
+<script type="text/javascript" src="js/lightbox/jquery.lightbox.min.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        $('.lightbox').lightbox();
+    });
+</script>
+<!--FIM LIGHTBOX-->
+
+<!-- Acora/Topo -->
+<script type="text/javascript">
+
+    jQuery(document).ready(function ($) {
+        $('.top').click(function () {
+            $('html,body').animate({ scrollTop: 0 }, 'slow');
+        });
+    });
+</script>
+<!-- Fim. Acora/Topo -->
+
+<!--MENU-->
+<script type="text/javascript" src="js/superfish/hoverIntent.js"></script>
+<script type="text/javascript" src="js/superfish/superfish.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        $('#menu_topo').superfish();
+        $('#menu_exclusivo').superfish();
+    });
+</script>
+<!--FIM MENU-->
+
+<!-- ACCORDION -->
+<!--script type="text/javascript" src="jquery.min.js"></script-->
+<script type="text/javascript" src="js/accordion/ddaccordion.js"></script>
+
+<script type="text/javascript">
+    ddaccordion.init({
+        headerclass: "expandable",
+        contentclass: "categoryitems",
+        revealtype: "click", //click ou mouseover
+        mouseoverdelay: 200, //se revealtype="mouseover", definir o atraso em milissegundos antes do cabeï¿½alho expandir
+        collapseprev: true, //fechar aba anterior, true ou false
+        defaultexpanded: [], //aba padrï¿½o [index1, index2, etc]. [] sem aba padrï¿½o
+        onemustopen: false, //manter uma aba aberta sempre
+        animatedefault: false, //animaï¿½ï¿½o na aba padrï¿½o quando carregar
+        persiststate: false, //manter as abas abertas por sessï¿½o
+        toggleclass: ["", "openheader"], //2 classes CSS para ser a aba e o conteï¿½do da aba, respectivamente
+        togglehtml: ["prefix", "", ""], //HTML adicional adicionado na aba quando ela abrir e fechar, respectivamente  ["position", "html1", "html2"]
+        animatespeed: "fast", //velocidade da animaï¿½ï¿½o em tempo 200, sem aspas, ou por opï¿½ï¿½es: "fast", "normal", ou "slow"
+        oninit: function (headers, expandedindices) { },
+        onopenclose: function (header, index, state, isuseractivated) { }
+    })
+
+    ddaccordion.init({
+        headerclass: "subexpandable",
+        contentclass: "subcategoryitems",
+        revealtype: "click", //click ou mouseover
+        mouseoverdelay: 200, //se revealtype="mouseover", definir o atraso em milissegundos antes do cabeï¿½alho expandir
+        collapseprev: true, //fechar aba anterior, true ou false
+        defaultexpanded: [], //aba padrï¿½o [index1, index2, etc]. [] sem aba padrï¿½o
+        onemustopen: false, //manter uma aba aberta sempre
+        animatedefault: false, //animaï¿½ï¿½o na aba padrï¿½o quando carregar
+        persiststate: false, //manter as abas abertas por sessï¿½o
+        toggleclass: ["opensubheader", "closedsubheader"], //2 classes CSS para ser a aba e o conteï¿½do da aba, respectivamente
+        togglehtml: ["none", "", ""], //HTML adicional adicionado na aba quando ela abrir e fechar, respectivamente  ["position", "html1", "html2"]
+        animatespeed: "fast", //velocidade da animaï¿½ï¿½o em tempo 200, sem aspas, ou por opï¿½ï¿½es: "fast", "normal", ou "slow"
+        oninit: function (headers, expandedindices) { },
+        onopenclose: function (header, index, state, isuseractivated) { }
+    })
+</script>
+
+<script type="text/javascript">
+
+    ddaccordion.init({
+        headerclass: "expandable2",
+        contentclass: "categoryitems2",
+        revealtype: "click", //click ou mouseover
+        mouseoverdelay: 200, //se revealtype="mouseover", definir o atraso em milissegundos antes do cabeï¿½alho expandir
+        collapseprev: true, //fechar aba anterior, true ou false
+        defaultexpanded: [], //aba padrï¿½o [index1, index2, etc]. [] sem aba padrï¿½o
+        onemustopen: false, //manter uma aba aberta sempre
+        animatedefault: false, //animaï¿½ï¿½o na aba padrï¿½o quando carregar
+        persiststate: false, //manter as abas abertas por sessï¿½o
+        toggleclass: ["", "openheader"], //2 classes CSS para ser a aba e o conteï¿½do da aba, respectivamente
+        togglehtml: ["prefix", "", ""], //HTML adicional adicionado na aba quando ela abrir e fechar, respectivamente  ["position", "html1", "html2"]
+        animatespeed: "fast", //velocidade da animaï¿½ï¿½o em tempo 200, sem aspas, ou por opï¿½ï¿½es: "fast", "normal", ou "slow"
+        oninit: function (headers, expandedindices) { },
+        onopenclose: function (header, index, state, isuseractivated) { }
+    })
+
+</script>
+<!-- FIM ACCORDION -->
+
+        <!--TOPO-->
+        <header>
+	        <div class="container_24 clearfix bg-topo">
+		
+		        <!-- Logo -->
+		        <div class="grid_7 suffix_1">
+			        <a href="default.aspx" class="logo dblock"><h1>HB Sa&uacute;de</h1></a>
+		        </div>
+		
+		        <!-- Grid 16 -->
+		        <div class="grid_16">
+			        <!-- Menu Auxiliativo -->
+			        <ul id="menu_topo" class="menu-aux fleft ohidden">
+				        <li><a href="./"><span class="dblock icone ic-home">Home</span>In&iacute;cio</a></li>
+				        <li><a href="http://www3.catho.com.br/empregos/hbsaude/" target="_blank"><span class="dblock icone ic-info">Trabalhe conosco</span>Trabalhe conosco</a></li>
+				        <li><a href="#"><span class="dblock icone ic-tag">Produtos</span>Produtos</a>
+
+					        <!--DROPDOWN-->
+					        <ul>
+						        <li><a href="planos-individuais.aspx"> > Individual / Familiar</a></li>
+                                <li><a href="planos-coletivo-empresarial.aspx"> > Coletivo Empresarial</a></li>
+						        <li><a href="onde-comprar.aspx"> > Onde Comprar</a></li>
+						        <li><a href="redecredenciada.aspx"> > Rede Credenciada</a></li>
+						        <li><a href="http://hbsaude.com.br/site/pdf/RN_389anexo.pdf"> > Tipos de Contrata&ccedil;&atilde;o RN389</a></li>				
+						
+					        </ul>					
+					        <!--FIM DROPDOWN-->					
+				
+				        </li>
+				        <li><a href="nossos-servicos.aspx"><span class="dblock icone ic-servicos">Servi&ccedil;os</span>Servi&ccedil;os</a>
+					        <!--DROPDOWN-->
+					        <ul>
+                                <li><a href="hospital-hb-saude.aspx"> > Hospital HB Sa&uacute;de</a></li>
+						        <li><a href="hospital-base.aspx"> > Hospital de Base</a></li>
+						        <li><a href="pronto-atendimento-infantil.aspx"> > Pronto Atendimento Espaco Saude - Unidade Infantil</a></li>						        
+						        <li><a href="unidade-de-vacinacao.aspx"> > Unidade de Vacina&ccedil;&atilde;o Espaco Saude - Unidade Infantil</a></li>
+                                <li><a href="CDHB.aspx" id="A1"> > CDHB</a></li>
+                                <li><a href="quimioterapia-hbsaude.aspx" id="A2"> > Quimioterapia HB Sa&uacute;de</a></li>
+                                <li><a href="espaco-saude.aspx" id="A3"> > Espa&ccedil;o Sa&uacute;de</a></li>
+						
+					        </ul>					
+					        <!--FIM DROPDOWN-->		
+				
+				        </li>
+				        <li><a href="contatos.aspx"><span class="dblock icone ic-mail">Contatos</span>Contatos</a></li>
+			        </ul>
+			        <!-- Fim. Menu Auxiliativo -->
+			
+			        <!-- Redes Sociais -->
+			        <div class="fleft">
+				        <ul class="rd">
+					        <li><a href="http://www.youtube.com/HBSAUDEHBS" target="_blank" class="youtube">Youtube</a></li>
+					        <li><a href="https://www.facebook.com/pages/HB-Sa%C3%BAde/339815846121363" target="_blank" class="facebook">Facebook</a></li>
+				        </ul>
+			        </div>
+			        <!-- Redes Sociais -->
+			
+			        <!-- Flutuar a esquerda -->
+			        <div class="fleft">
+				        <!-- Links do topo -->
+				        <div class="links-top centro">
+					        <a href="https://webmail.hbsaude.com.br/" target="_blank" title="WebMail">WEBMAIL</a><span> | </span>
+					        
+					        <a href="http://hbsaude.hbsaude.com.br/Acesso/Login?ReturnUrl=%2f" target="_blank" title="Intranet HB Saude">INTRANET HB</a>
+
+				        </div>
+				        <!-- Fim. Links do topo -->
+				
+				        <!-- box Busca -->
+				        <div class="box-busca">
+                        <div id="atim" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;btnPesquisar&#39;)">
+	
+                        <input name="ctl00$txtPesquisar" type="text" id="txtPesquisar" placeholder="Pesquisar no site..." class="fleft" />
+                      
+					       
+
+                           <input type="submit" name="ctl00$btnPesquisar" value="buscar" id="btnPesquisar" />
+					          
+</div>
+				        </div>
+				        <!-- box Busca -->
+			        </div>
+			        <!-- Flutuar a esquerda -->
+		        </div>
+		        <!-- Fim Grid 16 -->
+		
+		        <div class="clear"></div>
+		
+
+				<!--mySuite Inicio BLOCO HTML Chat Anonimo-->
+                <div style="width:auto; height:auto; line-height:1.2; padding:0 30px 0 0; position:absolute; right:460px; top:60px;">
+				    <iframe style="WIDTH: 108px; HEIGHT: 71px"
+					    src="http://hbsaude.mysuite2.com.br/empresas/hbs/verifica.php"
+					    frameborder=0 scrolling=no>
+				    </iframe>
+			    </div>
+			    <!--mySuite Fim BLOCO HTML Chat Anonimo-->
+
+
+		        <!-- Box Fale Conosco -->
+		        
+		        <!-- Fim. Box Ouvidoria -->
+
+
+		        <!-- Box Ouvidoria -->
+		        <a href="ouvidoria.aspx" title="Ouvidoria">
+			        <div class="box-help direita">
+				        <h3>FAQ</h3>
+				        <h4>Ouvidoria</h4>
+			        </div>
+		        </a>
+		        <!-- Fim. Box Ouvidoria -->
+
+                <!-- Box Calendario Vacinal -->
+		        <a href="telefones-uteis.aspx" title="Telefones de Contato">
+			        <div class="box-phone direita">
+				        <h3>Telefones de</h3>
+				        <h4>Contato</h4>
+			        </div>
+		        </a>
+		        <!-- Fim. Box Calendario Vacinal -->
+		
+		        <!-- Ir para site -->
+		        <a href="http://www.hospitalhbsaude.com.br/" target="_blank" class="ir_site dblock" title="Ir para Site"><span>VISITE O SITE DO</span><br>HOSPITAL HBS</a>
+		        <!-- End. Ir para site -->
+		
+	        </div>
+	
+	        <div class="nav-aux"></div>
+	
+        </header>
+
+        <div class="clear"  style="margin-top: 20px"></div>
+        <!--FIM TOPO-->
+
+        <!-- Menu -->
+        <nav id="main_menu">
+	        <div class="container_24">
+		        <div class="grid_24">
+							<ul>
+                                <li><a href="http://www.hospitalhbsaude.com.br/" target="_blank">HBS</a></li>
+				                <li><a href="http://www.hbsaude.com.br/pleno" target="_blank">Plano Pleno</a></li>
+								<li><a href="http://www.hbsaude.com.br/uninfancia" target="_blank">Unidade Infantil</a></li>
+								<li><a href="http://www.hbsaude.com.br/espacosaude" target="_blank">Espa&ccedil;o Sa&uacute;de</a></li>
+								<li><a href="http://www.hbsaude.com.br/medicinaocupacional" target="_blank">Medicina Ocupacional</a></li>
+								<li><a href="http://www.hbsaude.com.br/hbodontologia" target="_blank">HB Odontologia</a></li>
+								<li><a href="http://www.hbsaude.com.br/cdhb" target="_blank">CDHB</a></li>
+			                </ul>	
+		        </div>
+	        </div>
+        </nav>            
+        <!-- Fim. Menu -->
+
+
+
+        
+
+<meta charset="utf-8" />
+
+<title>HB Saúde S/A</title>
+
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<link rel="stylesheet" href="/resources/demos/style.css" />
+
+<script>
+	// --------Pop Up Principal da pagina-----------
+	$( document ).ready(function() {
+		//AbrirPopUpPrincipal();
+
+		//AbrirPopUpPrincipalEspecial(); //criei outra função pois essa tem uma funcionalidade diferente: ela abre e qdo clicar dentro imagem será fechada a popup e abrirá outra popup
+
+		//O site na Netpacs não abre no Internet Explorer
+		$("#linkToNetpacs").click(function() {
+			var ua = window.navigator.userAgent;
+			var msie = ua.indexOf("MSIE ");
+
+			if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./)) // If Internet Explorer, return version number
+			{
+				alert('O navegador Internet Explorer foi descontinuado e não pode mais abrir este endereço. Por favor, utilize outro navegador (Google Chrome, Firefox, Microsoft Edge, outros...)');
+				return false;
+			}			
+		})
+		
+		//Desabilita o click com o botão esquerdo para não clicar no abrir link
+		$("#linkToNetpacs").contextmenu(function() {
+			var ua = window.navigator.userAgent;
+			var msie = ua.indexOf("MSIE ");
+			
+			if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./)) // If Internet Explorer, return version number
+			{
+				alert('Essa função foi desabilitada.');
+				return false;
+			}						
+		})
+
+		$("#imgBannerPrincipal").on('click', function() {
+			AbrirPopUpPrincipalEspecial2();
+		})
+	});
+
+	function AbrirPopUpPrincipal(){
+		$('#dialog-message').empty();
+		$('#dialog-message').prepend('<img src="img/carnaval_2019.jpg" height="600px" width="auto"/>');
+		$("#dialog-message").dialog({
+			"width": 635,
+			position: 'center',//{ my: 'top', at: 'top' },
+			modal: true
+		});
+	}
+	
+	// function AbrirPopUpPrincipal(){
+	//  $('#dialog-message').empty();
+	//  $('#dialog-message').prepend('<iframe src="img/video-HB.mp4" seamless="" width="900" height="500"></iframe>');
+	//  $("#dialog-message").dialog({
+	//   		"width": 900,
+    //       	position: { my: 'top', at: 'top' },
+    //    		modal: true
+    // 	});
+	// }
+
+	function AbrirPopUpPrincipalEspecial() {
+		$('#dialog-message').empty();
+		$('#dialog-message').prepend('<img id="imgBannerPrincipal" src="img/banner-horario-01.jpg" height="600px" width="auto"/>');
+		$("#dialog-message").dialog({
+			"width": 635,
+			position: 'center',//{ my: 'top', at: 'top' },
+			modal: true
+		});
+	}
+
+	function AbrirPopUpPrincipalEspecial2() {
+		$('#dialog-message').empty();
+		$('#dialog-message').prepend('<img src="img/banner-horario-02.jpg" height="600px" width="auto"/>');
+		$("#dialog-message").dialog({
+			"width": 635,
+			position: 'center',//{ my: 'top', at: 'top' },
+			modal: true
+		});		
+	}
+
+    $(function () {
+        $("#dialog-modal").dialog({
+            height: 500, 
+			width: 800, 
+			modal: true
+        });
+    });
+
+    $(function () {
+        $(".ui-dialog").css("z-index", "1000");
+    });
+
+	// function AbrirPortalBeneficiario() {
+    //     var form = $('form').serialize();
+    //     window.location.href = 'http://portalbeneficiario.hbsaude.com.br/account/login?ReturnUrl=%2f/';
+    // }
+
+	function AbrirSiteMetLife(){
+	        window.location.href = 'http://metlife.zarpsystem.com.br/AreaExterna/IndicacaoPreCadastro.aspx/';
+	}
+
+	function AbrirPopupAutorizador(){
+		$('#dialog-message').empty();
+		$('#dialog-message').prepend('<img src="img/autorizador-online.jpg" />');
+		$("#dialog-message").dialog({
+		"width": 840,
+		modal: true
+		});
+	}
+	
+	function AbrirPopUpOna(){
+		$('#dialog-message').empty();
+		$('#dialog-message').prepend('<img src="img/banner-ona-folder.jpg" />');
+		$("#dialog-message").dialog({
+		"width": 690,
+		modal: true
+		});
+	}
+	
+	function AbrirPopUp(){
+		$('#dialog-message').empty();
+		$('#dialog-message').prepend('<img onclick="AbrirPopUp2();" src="img/imgPopup.jpg" />');
+		$("#dialog-message").dialog({
+		"width": 640,
+		position: { my: 'top', at: 'top' },
+		modal: true
+		});
+	}
+	
+	function AbrirPopUp2(){
+		$('#dialog-message').empty();
+		$('#dialog-message').prepend('<img  src="img/imgPopup2.jpg" />');
+		$("#dialog-message").dialog({
+		"width": 800,
+		position: { my: 'top', at: 'top' },
+		modal: true
+		});
+	}
+
+	function AbrirPopUpCartilha(){
+		var url = "http://www.hbsaude.com.br/site/ArquivosDiversos/CartilhaSegurancadoPaciente.pdf";
+		window.open(url);
+	}	
+
+	function AbrirMetlife(){
+		$('#dialog-message').empty();
+		$('#dialog-message').prepend('<img src="img/banner-grande-metlife.jpg" />');
+		$("#dialog-message").dialog({
+		"width": 840,
+		modal: true
+		});
+	}
+	
+	function AbrirPopupSOS(){
+		$('#dialog-message').empty();
+		$('#dialog-message').prepend('<img src="img/banner-sos-grande.jpg" />');
+	    $("#dialog-message").dialog({
+			"width": 630,
+			modal: true
+    	});
+	}
+
+	function AbrirPopupSustentabilidade() {
+		$('#dialog-sustentabilidade').dialog({
+			height: 'auto',
+			width: 255,
+			modal: true
+		})
+	}
+	</script>
+
+	<style>
+		html body div.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable div.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix{
+		background:none; background-color:#245D9E!important;  color:#fff;}
+		
+		html body div.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable{
+		z-index:10000!important;
+		width:670px;
+		}
+		
+		.ui-dialog .ui-dialog-titlebar{
+		padding: 0!important;
+		}
+
+		.btn-igual-bootstrap {
+			cursor: pointer;
+			-webkit-appearance: button;
+			background-color: #3c8dbc;
+			border-color: #367fa9;
+			border-radius: 3px;
+			border: 1px solid transparent;
+			color: #fff!important;
+			padding: 2px 12px;
+			font-size: 18px;
+			font-weight: normal;
+			text-align: center;
+
+		}
+	</style>
+</head>
+  
+<body>
+<div id="dialog-message" style="display:none; width:670px;">
+</div>
+
+<div id="dialog-sustentabilidade" title="Ano Relatório" style="display:none;">
+	<!-- <a href="http://hbsaude.com.br/site/pdf/Rel-Sustentabilidade-2016.pdf" target="_blank"><img src="img/btn-2016.png" alt="Sustentabilidade" title="Sustentabilidade 2016"></a> -->
+	<p style="font-size:0.8em;">Escolha o ano que deseja o relatório de sustentabilidade:</p>
+	<div style="padding-top:10px; text-align:center;">
+		<a href="http://hbsaude.com.br/site/pdf/Rel-Sustentabilidade-2016.pdf?action=purge" target="_blank" class="btn-igual-bootstrap" role="button" title="Relatório de sustentabilidade 2016">2016</a>
+		
+		<a href="http://hbsaude.com.br/site/pdf/Rel-Sustentabilidade-2017.pdf?action=purge" target="_blank" class="btn-igual-bootstrap" role="button" title="Relatório de sustentabilidade 2017">2017</a>
+	</div>
+</div>
+
+  <!-- <div id="dialog-modal" title="" style="z-index:1000;">
+        <div class="imagem-pop-up" style="margin:2px;">
+			<a id="corpo_HyperLink1" style="display: block; width: 450px; height: 450px; float:top;">
+				<div class="pop"><img src="img/anuncio.png" alt="HB Saúde" border="0" style="margin:-10px;" /></div>
+			</a>
+        </div>
+    </div>
+    </div>-->
+
+		<!-- Banner -->
+			<script src="js/modern-slide-in/scripts/sequence.jquery-min.js"></script>
+			<script src="js/main.js"></script>
+			<script src="js/modern-slide-in/scripts/sequencejs-options.modern-slide-in.js"></script>
+			<link rel="stylesheet" href="js/modern-slide-in/css/sequencejs-theme.modern-slide-in.css" />
+		<!-- Fim Banner -->
+
+       <!-- Banners -->
+        <section id="banner">
+	        <div class="container_24 clearfix">
+		        <div class="grid_24 bg-banner">
+
+			        <div id="sequence-theme">
+				        <div id="sequence">
+	
+							<img class="prev" src="img/ic-prev.png" alt="Previous Frame" />
+							<img class="next" src="img/ic-next.png" alt="Next Frame" />
+							<img src="img/sb-nav.png" style="position:absolute; bottom:4%; left:33.5%;">				
+					
+				    		<ul>	
+
+                                <li class="animate-in">
+							        <img class="model" src="img/drogaraia.jpg" alt="Model 1" />
+						        </li>
+
+								<li class="animate-in">
+									<img class="model" src="img/raioX.jpg" alt="Model 1" Id="PortalBanner" />
+								</li>
+
+								<li class="animate-in">
+									<img class="model" src="img/cartilha-seguranca.jpg" onclick="AbrirPopUpCartilha()" alt="Model 1" Id="PortalBanner" />
+								</li>
+
+								<li class="animate-in">
+							       <img class="model" src="img/banner-ona.jpg" onclick="AbrirPopUpOna()"  alt="Model 1" Id="PortalBanner" />
+						        </li>
+
+							    <li class="animate-in">
+							       <img class="model" src="img/bannerparceria.jpg"  alt="Model 1" Id="PortalBanner" />
+						        </li>
+				
+                                <li class="animate-in">
+							       <img class="model" src="img/banner-pequeno-metlife.png" onclick="AbrirMetlife();"  alt="Model 1" Id="PortalBanner" />
+						        </li>
+                                                       	
+								<li class="animate-in">
+							       <img class="model" src="img/odonto.jpg" onclick="AbrirSiteMetLife();"  alt="Model 1" Id="PortalBanner" />
+						        </li>	
+
+								<li class="animate-in">
+							       <img class="model" src="img/banner-sos.jpg" onclick="AbrirPopupSOS();"  alt="Model 1" Id="PortalBanner" />
+						        </li>
+
+								<li class="animate-in">
+							       <img class="model" src="img/autorizador-online-small.jpg" onclick="AbrirPopupAutorizador();"  alt="Model 1" Id="PortalBanner" />
+						        </li>	
+								
+								<li class="animate-in">
+							       <img class="model" src="img/curso_gestante.jpg"  alt="Model 1" Id="PortalBanner" />
+						        </li>	
+								
+								<li class="animate-in">
+							       <img class="model" src="img/grupo_medicina.jpg"  alt="Model 1" Id="PortalBanner" />
+								</li>	
+								
+								 <li class="animate-in">
+							       <img class="model" src="img/17474955.jpg"  alt="Model 1" Id="PortalBanner" />
+						        </li>	
+								
+							 	<li class="animate-in">
+							        <img class="model" src="img/pediatricas.jpg" alt="Model 1" Id="PortalBanner" />
+						        </li>
+								
+                                <li class="animate-in">
+							        <img class="model" src="img/iso.jpg" alt="Model 1" Id="PortalBanner" />
+						        </li>
+					    </ul>
+				    </div>
+
+			        </div>
+
+			        <!-- Acesso Rapido -->
+			        <div class="box-acesso">
+				        <h4 class="centro">ACESSO <span>R&Aacute;PIDO</span></h4>
+				        <ul>
+							<li>
+						        <a href="http://autorizanet.hbsaude.com.br:8080/autorizanet" target="_blank">
+							        <h2>AUTORIZANET </h2>
+							        <h3>AUTORIZE AGORA MESMO</h3>
+						        </a>
+					        </li>
+							
+					       <!-- <li>
+						        <a href="http://autorizador.hbsaude.com.br/Logins/Login.aspx" target="_blank">
+							        <h2>AUTORIZADOR ONLINE</h2>
+							        <h3>AUTORIZE AGORA MESMO</h3>
+						        </a>
+					        </li> -->
+							
+					        <li>
+						        <a href="http://guia_medico.hbsaude.com.br/Home/ConsultarMedico?TipoConsulta=MEDICO">
+							        <h2>GUIA M&Eacute;DICO</h2>
+							        <h3>PROFISSIONAIS &Agrave; SUA DISPOSI&Ccedil;&Atilde;O</h3>
+						        </a>
+					        </li>
+
+					        <li>
+						        <a href="http://guia_medico.hbsaude.com.br/Home/ConsultarMedico?TipoConsulta=ODONTO">
+							        <h2>GUIA ODONTOL&Oacute;GICO</h2>
+							        <h3>ALTAMENTE ESPECIALIZADO</h3>
+						        </a>
+					        </li>					
+
+					        <li>
+                                    <a href="http://hbtiss.hbsaude.com.br/hbboletos/" target="_blank">
+									<h2>2ª VIA BOLETO</h2>
+						            <h3>RETIRE AQUI SEU BOLETO EM ATRASO</h3>
+                                </a>
+							</li>	
+							
+						<!--	<li>
+                                <a href="http://hbsaude.com.br/site/pdf/Rede-Inativados2.pdf" target="_blank">
+						            <h2>Substituição de Prestador / Médico</h2>
+						            
+                                </a>
+					        </li>	-->
+
+							<li>
+                                <a href="https://hbsaude.hbsaude.com.br/Credenciamento/Index" title="Credenciamento médico" target="_blank">
+						            <div style="font-size: 17px">CREDENCIAMENTO MÉDICO</div>
+						            <h3>Realize sua solicitação online</h3>
+                                </a>
+					        </li>
+					
+				        </ul>
+				        <a href="contatos.aspx" class="adquirir">ADQUIRA SEU PLANO &raquo;</a>
+			        </div>
+			        <!-- Acesso Rapido -->
+					
+		        </div>
+		
+	        </div>	
+        </section>
+
+       <!-- Fim. Banner -->
+
+       <!--MEIO-->
+        <section id="main_content">
+	        <div class="container_24 clearfix">
+		
+		        <!-- Box Exclusivo -->	
+		        <div class="grid_24 box-exclusivo">
+			        <h2 class="fleft">ACESSO EXCLUSIVO</h2>
+			        <hr>
+			
+			        <ul id="menu_exclusivo">
+				        <li><a href="#">BENEFICIÁRIOS</a>
+					        <!--DROPDOWN-->
+					        <ul>
+						        <li>
+							        <div class="sub-drop ohidden">
+								        <div class="ut1 fleft" style=" border-right:2px solid #eee;">
+									        <a href="http://guia_medico.hbsaude.com.br/Home/ConsultarMedico?TipoConsulta=MEDICO">» Guia Médico</a>
+                                            <a href="http://guia_medico.hbsaude.com.br/Home/ConsultarMedico?TipoConsulta=ODONTO">» Guia Odontológico</a>
+									        <a href="redecredenciada.aspx">» Rede Credenciada</a>
+									        <a href="nossos-produtos.aspx">» Nossos Produtos</a>
+									        <a href="2viacartao.aspx">» 2ª via cartão</a>
+									        <a href="http://hbtiss.hbsaude.com.br/hbboletos/" target="_blank">» 2ª via Boleto</a>
+											<a href="atualizacaocadastral.aspx">» Atualização Cadastral</a>
+											<a href="https://netpacs.hbsaude.com.br/Netpacs-paciente" target="_blank" id="linkToNetpacs">» Resultado de Exames - CDHB (Pacientes)</a>
+								        </div>
+								
+								        <div class="ut1 fleft">
+									        <a href="debitoautomatico.aspx">» Solicitação Débito Automático</a>
+									        <a href="CancelamentoDebitoAutomatico.aspx">» Cancelamento Débito Automático</a>
+									        <a href="CancelamentoContrato.aspx">» Cancelamento de Contrato</a>
+									        
+                                            <a href="http://hbsaude.com.br/site/pdf/Rede-Inativados3.pdf">» Substituição de Prestador/Médico </a>													
+											<a href="contatos.aspx">» Fale Conosco</a>
+											<a href="http://portalbeneficiario.hbsaude.com.br/account/login?ReturnUrl=%2f/">» Portal do Beneficiário</a>												
+		                                    <a href="https://hbsaude.hbsaude.com.br/InformeRendimentonovo">» Informe de Rendimento</a>													
+								        </div>
+							        </div>
+						        </li>
+					        </ul>					
+					        <!--FIM DROPDOWN-->				
+				        </li>
+				        <li><a href="#">EMPRESAS</a>
+					        <!--DROPDOWN-->
+					        <ul>
+						        <li>
+							        <div class="sub-drop ohidden">
+								        <div class="ut1 fleft" style=" border-right:2px solid #eee;">
+									        <a href="http://guia_medico.hbsaude.com.br/Home/ConsultarMedico?TipoConsulta=MEDICO">» Guia Médico</a>
+                                            <a href="http://guia_medico.hbsaude.com.br/Home/ConsultarMedico?TipoConsulta=ODONTO">» Guia Odontológico</a>
+									        <a href="2viaFatura.aspx">» 2ª Via Fatura</a>
+									        <a href="http://hbnet.hbsaude.com.br:8080/bennet/" target="_blank">» Atualização Cadastral</a>
+                                            <a href="reajuste-empresa-pme.aspx">&raquo; Reajuste Empresas (PME)</a>
+								        </div>
+								
+								        <div class="ut1 fleft">
+									        <a href="contatos.aspx">» Fale Conosco</a>
+                                            <a href="EmpresaFrmSegViaBoleto.aspx">&raquo; 2&ordf; Via Boleto</a>
+                                            <a href="http://autorizanet.hbsaude.com.br:8080/portal_pcmso/">&raquo; Espaço Saúde</a>
+									        <a href="https://hbsaude.hbsaude.com.br/AgendaSaudeCorporativo/Index">» Agenda Saúde Corporativo</a>
+										</div>
+							        </div>
+						        </li>
+					        </ul>					
+					        <!--FIM DROPDOWN-->	
+				        </li>
+
+				        <li><a href="#">CREDENCIADOS</a>
+					        <!--DROPDOWN-->
+					        <ul>
+						        <li>
+							        <div class="sub-drop ohidden">
+								        <div class="ut1 fleft" style=" border-right:2px solid #eee;">
+									        <a href="http://201.63.231.90/tisstransmitemensagem/tissTransmiteMensagem.asmx?WSDL" target="_blank">» WebService</a>
+									       <!-- <a href="http://autorizador.hbsaude.com.br/Logins/Login.aspx" target="_blank">» Autorizador On-line</a> -->
+									       <!-- <a href="http://autorizador.hbsaude.com.br/sass/cadastrosecretaria.aspx" target="_blank">» Cadastro de Secretárias</a>-->
+									        <a href="http://www.hbsaude.com.br/demonstrativo/analitico.asp" target="_blank">» Demonstrativos de Pagamento</a>
+									        <a href="http://portalprestador.hbsaude.com.br" target="_blank">» Portal do Credenciado / Médico</a>
+											<a href="http://hbsecretaria.hbsaude.com.br/" target="_blank">» Portal da Secretária</a>
+											<a href="https://netpacs.hbsaude.com.br/Netpacs-web" target="_blank">» Laudos CDHB</a>
+										</div>
+								
+								        <div class="ut1 fleft">
+									        <a href="http://www.hbsaude.com.br/demonstrativo/analitico.asp" target="_blank">» Pesquisa de valor Nota Fiscal</a>
+									        <a href="SolicitacaoGuiaTiss.aspx" id="corpo_A1">» Solicitação e Guias TISS</a>	
+									        
+									        <a href="contatos.aspx">» Fale Conosco</a>		
+                                            <a href="http://hbtiss.hbsaude.com.br/hbtuss/">» De AMB para TUSS</a>							
+								        </div>
+								
+							        </div>
+						        </li>
+					        </ul>					
+					        <!--FIM DROPDOWN-->					
+						</li>
+						
+				        <li><a href="#">COLABORADORES</a>
+					        <!--DROPDOWN-->
+					        <ul>
+						        <li>
+							        <div class="sub-drop ohidden">
+								        <div class="ut1 fleft" style=" border-right:2px solid #eee;">
+									        <a href="https://hbsaude.hbsaude.com.br" target="_blank">» Intranet </a>
+								        </div>
+								        <div class="ut1 fleft">	
+									        <a href="https://webmail.hbsaude.com.br/" target="_blank">» Webmail - HB Saude</a>
+								        </div>
+
+							        </div>
+						        </li>
+					        </ul>					
+					        <!--FIM DROPDOWN-->					
+				
+						</li>
+						
+				        <li><a href="#">TISS</a>
+				
+					        <!--DROPDOWN-->
+					        <ul style=" right:0;">
+						        <li>
+							        <div class="sub-drop ohidden">
+								        <div class="ut1 fleft" >
+									        <a href="coordenadortiss.aspx" id="corpo_A2">» Coordenador Tiss</a>
+									        <a href="http://www.ans.gov.br/espaco-dos-prestadores/tiss" target="_blank">» Padrão Tiss ANS</a>
+								        </div>
+
+							        </div>
+						        </li>
+					        </ul>					
+					        <!--FIM DROPDOWN-->						
+				
+				        </li>
+			        </ul>
+			
+		        </div>
+		        <!-- Fim. Box Exclusivo -->
+		        <div class="clear"></div>
+		
+		        <div class="grid_8 box-home">
+			        <a href="quem-somos.aspx" class="dblock quemsomos">Quem somos</a>
+		        </div>
+
+		        <div class="grid_8 box-home">
+			        <a href="nossos-produtos.aspx" class="dblock produtos">Nossos Produtos</a>
+		        </div>
+		
+		        <div class="grid_8 box-home">
+			        <a href="nossos-servicos.aspx" class="dblock servicos">Nossos Serviços</a>
+		        </div>		
+		
+		        <div class="clear"></div>
+	
+		        <!-- Box Noticia -->
+		        <!-- <div class="grid_12 box-noticia">
+					<h2 class="fleft">NOTÍCIAS</h2>
+			        <hr>
+			        <ul>
+					<br />
+						
+
+						<li id="corpo_liNada">
+							Nenhuma notícia encontrada!
+						</li>	
+					</ul>	
+					<br />
+					<a href="noticias.aspx" class="vj-mais dblock direita">VEJA TODAS AS NOTÍCIAS >> &nbsp;&nbsp;</a>
+					<br />
+					<a href="https://www.youtube.com/user/HBSAUDEHBS" target="_blank"><img src="img/canal_youtube.png" width="465" height="44" alt="Assista nossos vídeos no Youtube" title="Assista nossos vídeos no Youtube"></a> 
+		        </div> -->
+		        <!-- Fim. Box Noticia -->
+
+				<div class="grid_24">
+					<div class="box-vejatambem">
+						<h2 class="fleft">GALERIA DE VÍDEOS</h2>
+						<hr>
+
+						<table>
+							<tr>
+								<td><a href="https://www.youtube.com/user/HBSAUDEHBS" target="_blank"><img src="img/canal_youtube.png" alt="Assista nossos vídeos no Youtube" title="Assista nossos vídeos no Youtube"></a> </td>
+								<td>
+									<table>
+										<tr>
+											<td><img src="img/canal_youtube_cabecalho.png" alt="Disponível novo vídeo para visualização" title="Disponível novo vídeo para visualização"></td>
+										</tr>
+										<tr>
+											<td><a href="https://www.youtube.com/watch?v=adSh-GjrfhU&t=3s" target="_blank"><img src="img/canal_youtube_lavagem_maos.png" alt="Lavagem das Mãos CDHB" title="Lavagem das Mãos CDHB"></a></td>
+										</tr>
+										<tr>
+											<td><a href="https://www.youtube.com/watch?v=chOWR2Be3Is" target="_blank"><img src="img/canal_youtube_tabagismo.png" alt="Tabagismo | Espaço Saúde Medicina Preventiva" title="Tabagismo | Espaço Saúde Medicina Preventiva"></a> </td>
+										</tr>																				
+									</table>
+								</td>
+							</tr>							
+						</table>
+						
+					</div>
+				</div>
+
+		        <div class="clear" style="margin-top: 15px"></div>
+
+		        <!-- box veja tambem -->
+		        <!--<div class="grid_12 box-vejatambem">-->
+				<div class="box-vejatambem">
+			        <h2 class="fleft">VEJA TAMBÉM</h2>
+					<hr>
+			        <a href="http://hbsaude.com.br/site/pdf/PS2018.pdf?action=purge" target="_blank"><img src="img/PS2018.png" width="245" height="102" alt="PS2018" title="PS2018"></a> <a href="http://hbsaude.com.br/site/pdf/PSA2018.pdf" target="_blank"><img src="img/PSA2018.png" width="220" height="102" alt="PSA2018" title="PSA2018"></a>
+					
+			        <a href="http://hbsaude.com.br/site/pdf/Rede-Inativados3.pdf?action=purge" target="_blank"><img src="img/substituicao-prestador.jpg" width="470" height="65" alt="imagem veja 1" title="Prestadores/Médicos"></a>
+			
+					<!-- <a href="http://hbsaude.com.br/site/pdf/Rel-Sustentabilidade-2016.pdf" target="_blank"><img src="img/Sustentabilidade.png" width="465" height="101" alt="Sustentabilidade" title="Sustentabilidade"></a> -->
+					<button type="button" onclick="AbrirPopupSustentabilidade()"><img src="img/Sustentabilidade.png" width="465" height="101" alt="Sustentabilidade" title="Sustentabilidade"></button>
+			
+					<a href="http://hbsaude.com.br/site/img/politica_assinada.jpg" target="_blank"><img src="img/banner_politica2.png" width="240" height="100" alt="Politica da qualidade" title="Politica da qualidade"></a>
+					
+					<a href="http://hbsaude.com.br/site/pdf/codigo-conduta-prestador.pdf?action=purge" target="_blank"><img src="img/banner-codigo-conduta2.png" width="240" height="100" alt="Politica da qualidade" title="Código de Conduta do Prestador"></a>
+					
+			        <!-- <a href="https://www.youtube.com/user/HBSAUDEHBS"><img src="img/fto-video.jpg" width="465" height="143" alt="Assista nossos vídeos no Youtube" title="Assista nossos vídeos no Youtube"></a> --> 
+					
+			    	<!-- <h3>GALERIA DE VÍDEOS</h3> -->
+			        <!-- <p>Conheça nossa Galeria de Vídeos do Canal HB Saúde no YouTube. <a href="https://www.youtube.com/user/HBSAUDEHBS"> <br /> >> VEJA TODA NOSSA GALERIA... </a></p> -->
+		        </div>
+		        <!-- box veja tambem -->
+		
+		        <div class="clear" style="margin-top: 30px"></div>
+		
+		        <!-- Logo Empresas -->
+				
+
+<div class="grid_24 box-empresas">
+	<a href="http://www.hospitalhbsaude.com.br/" target="_blank"><img src="img/hbs.jpg" width="125" title="HBS" alt="HBS" /></a>
+	<a href="http://www.hbsaude.com.br/pleno" target="_blank"><img src="img/logo-pleno.jpg" width="125" title="Pleno" alt="Pleno" /></a>
+	<a href="http://www.hbsaude.com.br/uninfancia" target="_blank"><img src="img/uninfancia.jpg" width="125" title="Espaço Saúde - Unidade Infantil" alt="Espaço Saúde - Unidade Infantil" /></a>
+	<a href="http://www.hbsaude.com.br/espacosaude" target="_blank"><img src="img/espaco-saude.jpg" width="125" title="Espaço Saúde" alt="Espaço Saúde" /></a>
+	<a href="http://www.hbsaude.com.br/cdhb" target="_blank"><img src="img/logo-cdhb.jpg" width="125" title="CDHB" alt="CDHB" /></a>
+	<a href="http://www.hbsaude.com.br/medicinaocupacional" target="_blank"><img src="img/logo-med-ocupacional.jpg" width="125" title="Medicina Ocupacional" alt="Medicina Ocupacional" /></a>
+    <a href="http://www.hbsaude.com.br/hbodontologia"><img src="img/hbondotologia.jpg" width="125" title="HB Odontologia" alt="HB Odontologia" /></a>
+</div>
+				<!-- Fim. Logo Empresas -->
+		
+	        </div>
+        </section>
+
+<!-- <div id="boxes">
+ <div style="left: 651.5px; display: none; top:30px!important;" id="dialog" class="window">
+  <a href="#"> <img class="model" src="img/aviso.jpg" alt="Model 1" /></a>
+   <div id="popupfoot"> <a href="#" class="close agree">Fechar</a></div>
+ </div>
+ <div style="width: 1478px; font-size: 32pt; color:white; height: 602px; display: none; opacity: 0.8;" id="mask"></div>
+</div> -->
+        <div class="clear"></div>
+
+        <!--FIM MEIO-->
+
+
+
+        <!--BASE-->
+        <footer>
+	        <div class="container_24 clearfix">
+
+		        <!-- menu rodape -->	
+		        <div class="grid_17 suffix_1">
+				        <!-- Box Rodape -->
+				        <div class="box-rodape ohidden fleft">
+					        <h3>IN&Iacute;CIO</h3>
+				        </div>
+				        <!-- Fim. Box Rodape -->
+				
+				        <!-- Box Rodape -->
+				        <div class="box-rodape ohidden fleft">
+					        <h3>INSTITUCIONAL</h3>
+					        <ul>
+						        <li>- <a href="quem-somos.aspx">HB Sa&uacute;de</a></li>   
+						        <li>- <a href="http://www.hbsaude.com.br/HBOdontologia/" target="_blank">HB Odontologia</a></li>
+						        <li>- <a href="http://www.hbsaude.com.br/MedicinaOcupacional/" target="_blank">Medicina Ocupacional</a></li>
+						        <li>- <a href="redecredenciada.aspx">Rede Credenciada</a></li>
+						        <li>- <a href="#">Programas Especiais</a></li>
+						        <li>- <a href="http://www.abramge.com.br/" target="_blank">Sistema Abramge</a></li>
+                                <li>- <a href="http://www.hbsaude.com.br/Pleno/" target="_blank">Plano Pleno</a></li>
+                                <li>- <a href="http://www.hbsaude.com.br/Uninfancia/" target="_blank">Espa&ccedil;o Sa&uacute;de - Unidade Infantil</a></li>
+					        </ul>
+				        </div>
+				        <!-- Fim. Box Rodape -->				
+				
+				        <!-- Box Rodape -->
+				        <div class="box-rodape ohidden fleft">
+					        <h3>PRODUTOS</h3>
+
+                            <ul>
+                                <li><a href="planos-individuais.aspx">Individual / Familiar</a></li>
+                                <li><a href="planos-coletivo-empresarial.aspx">Coletivo Empresarial</a></li>
+                                <li><a href="onde-comprar.aspx">Onde Comprar</a></li>
+						        <li><a href="redecredenciada.aspx">Rede Credenciada</a></li>
+						        <li><a href="Depoimentos.aspx">Depoimentos</a></li>						
+                            </ul>
+					
+				        </div>
+				        <!-- Fim. Box Rodape -->					
+
+				        <!-- Box Rodape -->
+				        <div class="box-rodape ohidden fleft">
+					        <h3>SERVI&Ccedil;OS</h3>
+					        <ul>
+						        <li><a href="hospital-hb-saude.aspx">Hospital HB Sa&uacute;de</a></li>
+						        <li><a href="hospital-base.aspx">Hospital de Base</a></li>
+						        <li><a href="pronto-atendimento-infantil.aspx">Pronto Atendimento Infantil</a></li>						                                        
+						        <li><a href="unidade-de-vacinacao.aspx">Vacina&ccedil;&atilde;o Unidade Infantil</a></li>
+								<li><a href="CDHB.aspx">CDHB</a></li>
+								<li><a href="quimioterapia-hbsaude.aspx">Quimioterapia HB Sa&uacute;de</a></li>
+					        </ul>
+					
+				        </div>
+				        <!-- Fim. Box Rodape -->					
+
+				        <!-- Box Rodape -->
+				        <div class="box-rodape ohidden fleft">
+					        <h3>CONTATOS</h3>
+					        <ul>
+						        <li>- <a href="telefones-uteis.aspx">Telefones &Uacute;teis</a></li>
+					        </ul>
+					
+				        </div>
+				        <!-- Fim. Box Rodape -->	
+				
+		        </div>
+		        <!-- menu rodape -->
+
+		        <!-- Box Telefones do rodape -->		
+		        <div class="grid_6 box-tele">
+			        <img src="img/ic-subir.png" class="top">
+			        <div class="box1 direita">
+				        <h3>PABX <span class="vermelho">HB SA&Uacute;DE</span></h3>
+				        <h4><small>17</small> 4009-6700</h4>
+				        <h5>LIGUE PARA MAIS INFORMA&Ccedil;&Otilde;ES!</h5>
+			        </div>
+
+			        <div class="box1 direita">
+				        <h3>COMERCIAL <span class="vermelho">HB SA&Uacute;DE</span></h3>
+				        <h4><small>17</small> 4009-6747</h4>
+				        <h5>LIGUE E FA&Ccedil;A SUA ADES&Atilde;O!</h5>
+			        </div>
+
+			        <div class="box1 direita">
+				        <h3>SAC <span class="vermelho">HB SA&Uacute;DE</span></h3>
+				        <h4 style="font-size:22px; line-height:1.2;"> 0800 77 76 767</h4>
+				        <h5>SERVI&Ccedil;O DE ATENDIMENTO AO CLIENTE</h5>
+			        </div>
+		        </div>
+		        <!-- Fim. Box Telefones do rodape -->
+		        <div class="clear"></div>
+				<br />
+		
+		        <div class="grid_24 parceiros" align="center">
+			        <a href="http://www.ans.gov.br/" target="_blank"><img src="img/ans.png"></a>
+			        <a href="http://www.abramge.com.br/" target="_blank"><img src="img/abramge.png"></a>
+			        <a href="http://www.ans.gov.br/espaco-dos-prestadores/tiss" target="_blank"><img src="img/tiss.png"></a>
+					<a href="http://doe.fadc.org.br/" target="_blank"><img src="img/abrinq.jpg"></a>
+					<br />
+					<br />
+		        </div>
+
+				<br />
+				<div class="grid_24 direitos">
+				  <p style="font-size:12px!important; margin-top:7px; text-align:center;"><b>Sede Administrativa: </b>
+					Av.: Jos&eacute; Munia, 6250 - Residencial Jardim Francisco Fernandes - Cep: 15090-275 - S&atilde;o Jos&eacute; do Rio Preto-SP
+                  </p>
+		        </div>
+
+				<div class="grid_24 direitos" align="center"> 
+					<p>HB Sa&uacute;de S/A - Sempre ao seu lado
+			        <script type="text/javascript">
+			            Stamp = new Date();
+			            year = Stamp.getYear();
+			            if (year < 2000) year = 1900 + year;
+			            document.write(year);
+			        </script>
+                     - Todos os direitos reservados.</p>
+		        </div>
+
+		        <div class="clear"></div>	
+		
+		        <div class="grid_4 suffix_18" style="margin-top:5px;">
+			        <img src="img/logoANS.png">
+		        </div>
+		
+		        <div class="grid_2" style="margin-top:5px;">
+			        <!-- <a href="#" target="_blank"><img src="img/logo-magic.png" class="fright"></a> -->
+		        </div>		
+				
+	        </div>
+		</footer>
+		
+		<div class="clear"></div>
+		
+		<!-- Google Analytics -->
+		
+      	<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-77672661-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+		<!--FIM BASE-->
+
+		<!--mySuite Inicio SCRIPT Chat AnÃ´nimo Flutuante-->
+			<script type="text/javascript">
+				window.$mysuite || function (t, e) {
+					var c = $mysuite = function (t) { 
+						c._.push(t)
+					}, s = c.s = t.createElement(e), a = t.getElementsByTagName(e)[0]; c.set = function (t) {
+						c.set._.push(t)
+					}, c._ = [], c.set._ = [], s.async = !0, s.setAttribute("charset", "utf-8"), s.src = "http://hbsaude.mysuite2.com.br/client/cf/?h=e71c3b07e0872839045adc6089c6bb59", c.t = +new Date, s.type = "text/javascript", a.parentNode.insertBefore(s, a)
+				}(document, "script");
+			</script>
+		<!--mySuite Fim SCRIPT Chat AnÃ´nimo Flutuante-->
+		
+    
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/site/WebResource.axd?d=t2A25GkYEJyxVUjN8u9rL7nrIwdu4-AdmGdaxnFchH1_dhpzD9fPZFrifDRZfn1sz_RCOKiQj0unz2WdXeDwuHbV3u5iH9rpNRUb9tqCAJQ1&amp;t=636776652783889403" type="text/javascript"></script>
+</form>
+
+    </body>
+
+</html>

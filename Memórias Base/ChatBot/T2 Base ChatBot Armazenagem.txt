@@ -1,0 +1,42 @@
+0:: Sua dúvida é sobre WMS T1 (Fábrica) ou T2 (CDD): 1- T1 2- T2
+
+02:: Qual dos módulos abaixo é referente sua dúvida? 1- Instalação do WMS 2- Ajuste Físico 3- Armazenagem 4- Blitz de Carregamento | Voltar 0- Voltar ao Menu Inicial
+
+023:: Sua dúvida sobre o aplicativo de Armazenagem é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+0231:: O aplicativo de Armazenagem é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS, porém, a Armazenagem foi substituída pelo aplicativo de Task Interleaving nas unidades que possuem o módulo de Task Interleaving. Caso sua unidade não possua o módulo de Task Interleaving ativo, geralmente o aplicativo de Armazenagem está disponível para os perfis: Geral, GRO (supervisores e administradores) e Operador de Empilhadeira. Caso nenhum destes perfis disponibilizem o aplicativo de Armazenagem, entre em contato com o suporte, abrindo um chamado.
+02311:: A orientação resolveu o problema ? 1- Sim 2- Não
+023111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+023112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0232:: Sua dúvida sobre o aplicativo de Armazenagem é referente a: 1- Operação 2- Desassociar tarefa 3- Endereço cheio 4- Bloquear endereço | Voltar 0- Voltar ao Menu Inicial
+
+02321:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Armazenagem e clique sobre ele. Abrirá uma tela com tarefas individuais, com o número do mapa e a posição da TP onde o sem encontra o palete. Clique sobre a tarefa desejada e o aplicativo abrirá uma nova tela com a instrução de localização do palete, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Caso confirme, na próxima tela haverá a informação do palete, caso seja este o palete correto, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Caso confirme, na próxima tela haverá a informação do endereço de destino do palete escolhido, clique no botão “V” de cor verde para confirmar, no botão “Pirâmide” de cor roxa para informar que o endereço está cheio ou no botão “Pare” de cor vermelha para bloquear o endereço (sinal de segurança). Caso confirme, na próxima tela haverá a informação da execução da tarefa.
+023211:: A orientação resolveu o problema ? 1- Sim 2- Não
+0232111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0232112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02322:: Para desassociar uma tarefa, clique no botão “X” de cor vermelha. Na tela seguinte confirme a desassociação da tarefa e informe o motivo conforme disponibilidade na lista. Feito isto o sistema retorna à tela inicial do aplicativo o qual estava executando.
+023221:: A orientação resolveu o problema ? 1- Sim 2- Não
+0232211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0232212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02323:: Caso o aplicativo indique a armazenagem em um endereço que se encontra cheio, para informar que um endereço está cheio, clique no botão “Pirâmide” de cor roxa e na tela seguinte confirme que o endereço está cheio, após confirmar, o aplicativo irá buscar outro endereço disponível para a armazenagem.
+023231:: A orientação resolveu o problema ? 1- Sim 2- Não
+0232311$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0232312$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02324:: Caso o aplicativo indique a armazenagem em um endereço que se encontra bloqueado, para informar que um endereço está bloqueado, clique no botão “Pare” de cor vermelha e na tela seguinte confirme o bloqueio do endereço, após confirmar, o aplicativo irá buscar outro endereço disponível para a armazenagem.
+023241:: A orientação resolveu o problema ? 1- Sim 2- Não
+0232411$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0232412$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+
+
+
+
+
+
+
+
+

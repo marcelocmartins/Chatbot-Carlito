@@ -1,0 +1,29 @@
+0:: Sua dúvida é sobre WMS T1 (Fábrica) ou T2 (CDD): 1- T1 2- T2
+
+02:: Qual dos módulos abaixo é referente sua dúvida? 1- Instalação do WMS | Voltar 0- Voltar ao Menu Inicial
+
+021:: Sua dúvida sobre a instalação do WMS é referente a: 1- Instalação do aplicativo 2- Configuração do WMS 3- Acessar o WMS | Voltar 0- Voltar ao Menu Inicial
+
+0211:: Para instalar o aplicativo do WMS, pelo próprio aparelho, após conectá-lo à internet, abrir o navegador web (Chrome ou equivalente) e digitar o seguinte endereço (URL), conforme a rede utilizada. Caso esteja usando a rede Ambev (ABI-AM, INTERMEC, ABI-WIFI), usar o link: http://172.19.134.147:8003/launcher/launcher-local_standard_release-0.6.034.apk. Caso esteja usando a rede externa (3-4G, redes terceiras), usar o link: http://54.94.140.5:8003/launcher/launcher-local_standard_release-0.6.034.apk. Após realizar o download do arquivo, abra o gerenciador de arquivos do aparelho, procure na pasta de downloads o arquivo e clique em cima do arquivo “launcher-local_standard_release-x.x.xxx.apk. Abrirá uma janela solicitando permissão para instalação do aplicativo, leia a mensagem e clique em “Instalar”. Aguarde alguns instantes a instalação e em seguida clique em “Abrir”. Caso a janela seja fechada, procure o aplicativo instalado na tela inicial do aparelho ou nos aplicativos instalados.
+02111:: A orientação resolveu o problema ? 1- Sim 2- Não
+021111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+021112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0212:: Para configurar o aplicativo do WMS após a instalação, após conectar o aparelho à internet, abra o aplicativo “Launcher” disponível na tela inicial do aparelho ou nos aplicativos instalados. Ao abrir a tela inicial do aplicativo, clique em “Configurações”. Na janela que abrirá, digite o endereço (URL) no campo “Servidor”, conforme a rede utilizada. Caso esteja usando a rede Ambev (ABI-AM, INTERMEC, ABI-WIFI), selecione o botão em “HTTP” e use o link do servidor: para GEO Sul: wmst2sul.la.interbrew.net, para GEO SP: wmst2sp.la.interbrew.net, para GEO MGNENO: wmst2.mgneno.la.interbrew.net, para GEO PILOTO: wmst2piloto.la.interbrew.net. Caso esteja usando a rede externa (3-4G, redes terceiras), selecione o botão em “HTTPS” e use o link do servidor: para GEO Sul: wmst2sul.ambev.com.br, para GEO SP: wmst2sp.ambev.com.br, para GEO MGNENO: wmst2.mgneno.ambev.com.br, para GEO PILOTO: wmst2piloto.ambev.com.br. Após efetuar a configuração, clique em “Salvar alterações”.
+02121:: A orientação resolveu o problema ? 1- Sim 2- Não
+021211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+021212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0213:: Para acessar o sistema WMS, após conectar o aparelho à internet, abra o aplicativo “Launcher” disponível na tela inicial do aparelho ou nos aplicativos instalados. Ao abrir a tela inicial do aplicativo, informe os dados nos respectivos campos: usuário, senha e equipamento. Ao preencher os campos, clique em “Entrar”.
+02131:: A orientação resolveu o problema ? 1- Sim 2- Não
+021311$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+021312$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+02132:: Acessei o aplicativo WMS com meu usuário, senha e equipamento, mas ele abriu uma tela diferente? 1- Sim 2- Não | Voltar 0- Voltar ao Menu Inicial
+
+021321:: Ao acessar o aplicativo com seu usuário, senha e equipamento, caso haja alguma atualização dos aplicativos, o Launcher efetuará o download automaticamente das novas versões de aplicativos disponíveis e em seguida solicitará a desinstalação dos aplicativos antigos e a instalação dos novos, conforme mensagens que serão apresentadas em cada tela. Leia atentamente as mensagens e proceda conforme necessário.
+0213211:: A orientação resolveu o problema ? 1- Sim 2- Não
+02132111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+02132112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+021322$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.

@@ -1,0 +1,38 @@
+0:: Sua dúvida é sobre WMS T1 (Fábrica) ou T2 (CDD): 1- T1 2- T2
+
+02:: Qual dos módulos abaixo é referente sua dúvida? 1- Instalação do WMS 2- Ajuste Físico 3- Armazenagem 4- Blitz de Carregamento 5- Blitz de Refugo| Voltar 0- Voltar ao Menu Inicial
+
+025:: Sua dúvida sobre o aplicativo de Blitz de Refugo é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+0251:: O aplicativo de Blitz de Refugo é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS, geralmente os perfis com acesso são: Geral, GRO (supervisores e administradores), Conferente e Ajudante. Caso nenhum destes perfis disponibilizem o aplicativo de Ajuste Físico, entre em contato com o suporte, abrindo um chamado.
+02511:: A orientação resolveu o problema ? 1- Sim 2- Não
+025111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+025112$$:: SDesculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787
+
+0252:: Sua dúvida é sobre o aplicativo do: 1- Ajudante 2- Conferente | Voltar 0- Voltar ao Menu Inicial
+
+02521:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Blitz de Refugo e clique sobre ele. Abrirá uma tela com tarefas individuais, com o número do mapa. Clique sobre a tarefa desejada e o aplicativo abrirá uma nova tela com o número do mapa e o ativo de giro, conforme conferido no Retorno de Rota e a lista de possíveis causas de refugo. Para iniciar, adicione em cada tipo de refugo as quantidades aferidas, utilizando o botão de “+” para adicionar e o botão de “-“ para reduzir a quantidade, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Caso confirme, o aplicativo solicitará a confirmação e voltará na tela anterior das tarefas de refugo.
+025211:: A orientação resolveu o problema ? 1- Sim 2- Não
+0252111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+0252112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
+
+02522:: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

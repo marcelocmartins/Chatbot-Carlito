@@ -1,0 +1,15 @@
+0:: Sua dúvida é sobre WMS T1 (Fábrica) ou T2 (CDD): 1- T1 2- T2
+
+02:: Qual dos módulos abaixo é referente sua dúvida? 7- Carregamento | Voltar 0- Voltar ao Menu Inicial
+
+027:: Sua dúvida sobre o aplicativo de Carregamento é referente a: 1- Instalação do aplicativo 2- Operação | Voltar 0- Voltar ao Menu Inicial
+
+0271:: O aplicativo de Carregamento é instalado e atualizado sempre que o usuário entrar no aplicativo do WMS, porém, o Carregamento foi substituído pelo aplicativo de Task Interleaving nas unidades que possuem o módulo de Task Interleaving ativo. Caso sua unidade não possua o módulo de Task Interleaving ativo, geralmente o aplicativo de Carregamento está disponível para os perfis: Geral, GRO (supervisores e administradores) e Operador de Empilhadeira. Caso nenhum destes perfis disponibilizem o aplicativo de Carregamento, entre em contato com o suporte, abrindo um chamado.
+02711:: A orientação resolveu o problema ? 1- Sim 2- Não
+027111$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+027112$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12787.
+
+0272:: Após acessar o aplicativo com seu usuário, senha e equipamento, procure o aplicativo Carregamento e clique sobre ele. Caso existam tarefas a serem executadas abrirá uma tela com as instruções “Vá para” o endereço “XPTO” e um “timer” na tela, siga a instrução e quando o “timer” zerar, passará para a próxima tela ou clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Caso confirme, na tela seguinte, siga a instrução de confirmar a chegada no endereço de origem “XPTO”, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Caso confirme, na tela seguinte, siga a instrução e observe se as informações da tela são coerentes com o endereço e o palete fisicamente, temos o número do mapa e o número do palete, clique no botão “V” de cor verde para confirmar ou no botão “X” de cor vermelha para desassociar a tarefa. Caso confirme, na tela seguinte, siga a instrução de destino do palete, “Levar para” e observe a ilustração de qual baia do veículo carregar, todas as baias são numeradas e ilustradas conforme a posição de carregamento do palete, onde a letra “A” na cabine do veículo significa lado do ajudante e a letra “M” significa lado do motorista. Nesta mesma tela, temos o número do palete, a placa do veículo e o endereço de destino (ou onde está o veículo), clique no botão “V” de cor verde para confirmar. Caso confirme, a tela seguinte apresentará a conclusão da tarefa e o aplicativo automaticamente irá mostra a tarefa seguinte.
+02721:: A orientação resolveu o problema ? 1- Sim 2- Não
+027211$$:: Excelente, como você avalia nosso atendimento, com um valor de 1 a 5?
+027212$$:: Desculpe não conseguir ajudar, por gentileza entre em contato com o suporte via chamado, utilizando a oferta STI12177.
